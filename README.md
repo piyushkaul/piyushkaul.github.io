@@ -1,11 +1,13 @@
-[Resume](https://www.linkedin.com/in/piyushkaul/)
+# Piyush Kaul 
 
-[Publications](https://scholar.google.com/citations?user=ySRFEz4AAAAJ&hl=en)
+* [Resume](https://www.linkedin.com/in/piyushkaul/)
 
-[Research](http://web.iitd.ac.in/~eez157544/)
+* [Publications](https://scholar.google.com/citations?user=ySRFEz4AAAAJ&hl=en)
 
-[Code](https://github.com/piyushkaul)
+* [Research](http://web.iitd.ac.in/~eez157544/)
 
-[Blog](http://piyushkaul.blogspot.com/)
+* [Code](https://github.com/piyushkaul)
 
-[Bookmarks](http://piyushkaul.tripod.com/bookmarks.html)
+* [Blog](http://piyushkaul.blogspot.com/)
+
+* [Bookmarks](http://piyushkaul.tripod.com/bookmarks.html)
