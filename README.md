@@ -1,5 +1,3 @@
-# Piyush Kaul 
-
 * [Resume](https://www.linkedin.com/in/piyushkaul/)
 
 * [Publications](https://scholar.google.com/citations?user=ySRFEz4AAAAJ&hl=en)
