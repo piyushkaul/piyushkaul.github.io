@@ -8,4 +8,4 @@
 
 * [Blog](http://piyushkaul.blogspot.com/)
 
-* [Bookmarks](http://piyushkaul.tripod.com/bookmarks.html)
+* [Bookmarks](http://invalid)
