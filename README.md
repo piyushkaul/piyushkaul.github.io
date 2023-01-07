@@ -6,7 +6,7 @@
 
 * [Code](https://github.com/piyushkaul)
 
-* [Blog](http://piyushkaul1.blogspot.com/)
+* [Blog](http://piyushkaul.blogspot.com/)
 
 * [Bookmarks](http://invalid)
 
